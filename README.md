@@ -57,6 +57,7 @@
 ```
 
 ## Installation [ESX]
+(Can be broken, maybe in future will be supported)
 - Add the image files from the image folder to your `inventory` folder
 - Execute installESX.sql into database for items and level system
 - Configure shared.lua according to your needs
