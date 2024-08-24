@@ -167,7 +167,7 @@ CreateThread(function()
             },
             {
                 type = "client",
-                event = "ls-carboostshop",
+                event = "ls-carboostshop:shop",
                 icon = "fas fa-circle",
                 label = 'Магазин LioneL ЕООД',
 				item = 'lionboost', -- change this item
@@ -243,7 +243,7 @@ CreateThread(function()
             },
             {
                 type = "client",
-                event = "ls-carboostshop",
+                event = "ls-carboostshop:shop",
                 icon = "fas fa-circle",
                 label = 'Exclusive Contractor Shop'
             },
